@@ -1,0 +1,39 @@
+<div class="event__container">
+  <img src="http://s1.ticketm.net/img/tat/cft1/201604/21/843700.jpg" alt="event image" class="event__img">
+  <h1 class="event__header">Amazing event name!</h1>
+  <form action="/buy">
+    <ul class="event__ul">
+      <li class="event__li">
+        <h2 class="event__li__price_type">Price type</h2>
+        <span class="event__price">10 EUR</span>
+        <select class="event__tickets" name="price_type" id="tickets">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+        </select>
+      </li>
+      <li class="event__li">
+        <h2 class="event__li__price_type">Price type</h2>
+        <span class="event__price">10 EUR</span>
+        <select class="event__tickets" name="price_type" id="tickets">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+        </select>
+      </li>
+      <li class="event__li">
+        <h2 class="event__li__price_type">Price type</h2>
+        <span class="event__price">10 EUR</span>
+        <select class="event__tickets" name="price_type" id="tickets">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+        </select>
+      </li>
+    </ul>
+    <input type="submit" value="Buy tickets" class="event__buy">
+  </form>
+</div>

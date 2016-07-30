@@ -1,0 +1,23 @@
+<div class="search">
+  <img class="search__logo" src="http://media.ticketmaster.eu/sweden/bf4fbdd8d68b6b29d36ded14b2758b4f.svg" alt="logo">
+  <form action="/search" class="search__form">
+    <input type="text" class="search__input" autofocus="true" tabindex="1">
+      <div class="search__categories">
+        <select name="country" id="country" tabindex="2">
+          <option value="country">Country</option>
+          <option value="sweden">Sweden</option>
+        </select>
+        <select name="city" id="city" tabindex="3">
+          <option value="city">City</option>
+          <option value="gothenburg">Gothenburg</option>
+          <option value="stockholm">Stockholm</option>
+        </select>
+        <select name="categories" id="categories" tabindex="4">
+          <option value="category">Category</option>
+          <option value="sports">Sports</option>
+          <option value="family">Family</option>
+        </select>
+      </div>
+      <input type="submit" class="search__submit" value="Search" tabindex="5">
+  </form>
+</div>

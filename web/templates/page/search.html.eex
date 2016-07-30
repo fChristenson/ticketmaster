@@ -1,0 +1,76 @@
+<div class="search_result">
+  <ul class="search_result__ul">
+    <li class="search_result__li">
+      <a href="/event" class="search_result__link">
+        <div class="search_result__header">
+          <img class="search_result__img" src="http://s1.ticketm.net/img/tat/cft1/201603/10/818690.jpg" alt="event image" />
+          <span class="search_result__event_info">
+            <h2 class="search_result__title">Amazing event name!</h2>
+            <table class="search_result__date_info">
+              <thead>
+                <th>Date</th>
+                <th class="search_result__time_th">Time</th>
+                <th>Price</th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>2016-01-02</td>
+                  <td class="search_result__time_td">12.00 - 14.00</td>
+                  <td>10 - 100 EUR</td>
+                </tr>
+              </tbody>
+            </table>
+          </span>
+        </div>
+      </a>
+    </li>
+    <li class="search_result__li">
+      <a href="/event" class="search_result__link">
+        <div class="search_result__header">
+          <img class="search_result__img" src="http://s1.ticketm.net/img/tat/cft1/201603/10/818690.jpg" alt="event image" />
+          <span class="search_result__event_info">
+            <h2 class="search_result__title">Amazing event name!</h2>
+            <table class="search_result__date_info">
+              <thead>
+                <th>Date</th>
+                <th class="search_result__time_th">Time</th>
+                <th>Price</th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>2016-01-02</td>
+                  <td class="search_result__time_td">12.00 - 14.00</td>
+                  <td>10 - 100 EUR</td>
+                </tr>
+              </tbody>
+            </table>
+          </span>
+        </div>
+      </a>
+    </li>
+    <li class="search_result__li">
+      <a href="/event" class="search_result__link">
+        <div class="search_result__header">
+          <img class="search_result__img" src="http://s1.ticketm.net/img/tat/cft1/201603/10/818690.jpg" alt="event image" />
+          <span class="search_result__event_info">
+            <h2 class="search_result__title">Amazing event name!</h2>
+            <table class="search_result__date_info">
+              <thead>
+                <th>Date</th>
+                <th class="search_result__time_th">Time</th>
+                <th>Price</th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>2016-01-02</td>
+                  <td class="search_result__time_td">12.00 - 14.00</td>
+                  <td>10 - 100 EUR</td>
+                </tr>
+              </tbody>
+            </table>
+          </span>
+        </div>
+      </a>
+    </li>
+  </ul>
+</div>

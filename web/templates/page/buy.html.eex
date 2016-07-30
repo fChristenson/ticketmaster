@@ -1,0 +1,14 @@
+<div class="buy">
+  <img class="buy__img" src="https://www.getswish.se/assets/img/swish_logo@2x.jpg" alt="swish">
+  <h1 class="buy__message">
+    Swish your payment to: 
+    <span class="buy__number">0707766205</span>
+    <br>
+    Your payment code is:
+    <span class="buy__code">F1QB8</span>
+  </h1>
+  <h2 class="buy__info">Once payment is completed you will recieve a text message with your ticket(s)</h2>
+  <div class="buy__back_link_container">
+    <a class="buy__back_link" href="/">Back to search</a>
+  </div>
+</div>
