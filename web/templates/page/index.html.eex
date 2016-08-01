@@ -1,7 +1,7 @@
 <div class="search">
   <img class="search__logo" src="http://media.ticketmaster.eu/sweden/bf4fbdd8d68b6b29d36ded14b2758b4f.svg" alt="logo">
   <form action="/search" class="search__form">
-    <input type="text" class="search__input" autofocus="true" tabindex="1">
+    <input type="text" class="search__input" autofocus="true" tabindex="1" placeholder="Find event">
       <div class="search__categories">
         <select name="country" id="country" tabindex="2">
           <option value="country">Country</option>
